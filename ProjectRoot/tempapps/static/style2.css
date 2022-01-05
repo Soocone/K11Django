@@ -7,3 +7,10 @@
 .blue{
     color: blue;
 }
+
+/*
+form.create/ 페이지의 form7 =>  radio버튼의 id 속성
+*/
+#id_form7{border: 1px solid seagreen;}
+#id_form7 div{border: 0px solid sienna; display: inline-block; width: 70px;}
+#id_form7_0{}
